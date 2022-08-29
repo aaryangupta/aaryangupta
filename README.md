@@ -1,4 +1,4 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+![MasterHead](https://indoanalytica.com/static/images/banner-2.gif)
 <h1 align="center">Hi 👋, I'm Aaryan Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
